@@ -8,7 +8,7 @@ Sharing economy is heated recently, Airbnb is one of the bigges leaders. [Inside
 
 **Summary**
 
-Airbnb grew exponentially during the past few years. People seems to be benefit from this sort of sharing economy as a new concept. But there are some potential issue that Airbnb may not want you to see or know. Some of them can be find [here](http://insideairbnb.com/index.html).
+Airbnb grew exponentially during the past few years. People seems to be benefit from this sort of sharing economy as a new concept. But there are some potential issue that Airbnb may not want you to see or know. Some of them can be found [here](http://insideairbnb.com/index.html).
 
 **Files**
 1. `airbnbSeattle.ipynb`
